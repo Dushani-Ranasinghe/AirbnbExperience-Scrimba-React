@@ -1,5 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@100;300;400;600&display=swap');
+
 .card1{
 width: 176px;
 height: 235px;
 object-fit: cover;
 border-radius: 9px;}
+
+.card-container{
+    width: 176px;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+}
+
+.voting_icon{
+ width: 16px;
+}
+.card-info{
+    font-size: 11.5px;
+    text-align: center;
+}
+.cost{
+    text-align: left;
+    padding-left: 3px;
+}
