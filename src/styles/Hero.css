@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Poppins:wght@100;300;400;600&display=swap');
+
+.Hero{
+    width: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  content: "";
+  display: table;
+  clear: both;
+}
+.hero-container{
+    padding-top: 30px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-img-container{
+    width: 400px;
+    float: left;
+}
+.Hero-img{
+    width: 395.91px;
+    height: 232px;
+}
+
+.hero-content{
+float: left;
+max-width: 300px;
+font-family: 'Poppins', sans-serif;
+}
+.hero-img-container , .hero-content{
+    padding: 10px 40px;
+}
