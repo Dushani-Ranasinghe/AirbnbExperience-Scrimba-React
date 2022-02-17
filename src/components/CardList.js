@@ -1,19 +1,18 @@
 import React from 'react'
-import Card from './Card'
-import Card1 from "../images/card 1.jpeg"
+import CardItem from './CardItem'
+import Image from "../images/katie.png"
 
 function CardList() {
   return (
     <div>
-        <Card
-        img={Card1}
-        rating={5.0}
-        revieCount={6}
+        <CardItem
+        image={Image}
+        rating="5.0"
+        reviewCount={6}
         country="USA"
         title="Life lessons with Katie Zaferes"
-        price="From $136"
+        price="136"
         />
-
     </div>
   )
 }
