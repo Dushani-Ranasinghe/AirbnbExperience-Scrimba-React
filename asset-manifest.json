@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/css/main.ea04e267.css",
-    "main.js": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/js/main.30a36890.js",
-    "static/media/yoga.jpg": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/media/yoga.47135b95adbc9dbe340b.jpg",
-    "static/media/bride.jpg": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/media/bride.5c149abed90b83b03f05.jpg",
-    "static/media/bike.jpg": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/media/bike.8e7277c6660c88dd86b2.jpg",
-    "static/media/hero-img.png": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/media/hero-img.072626b8e8ff69932f03.png",
-    "static/media/paint.jpg": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/media/paint.0128a205631eec43c9ef.jpg",
-    "static/media/katie.png": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/media/katie.d5f59803579208b4af86.png",
-    "index.html": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/index.html",
-    "main.ea04e267.css.map": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/css/main.ea04e267.css.map",
-    "main.30a36890.js.map": "/Dushani-Ranasinghe/AirbnbExperience-Scrimba-React/static/js/main.30a36890.js.map"
+    "main.css": "/AirbnbExperience-Scrimba-React/static/css/main.ea04e267.css",
+    "main.js": "/AirbnbExperience-Scrimba-React/static/js/main.c7e9a71a.js",
+    "static/media/yoga.jpg": "/AirbnbExperience-Scrimba-React/static/media/yoga.47135b95adbc9dbe340b.jpg",
+    "static/media/bride.jpg": "/AirbnbExperience-Scrimba-React/static/media/bride.5c149abed90b83b03f05.jpg",
+    "static/media/bike.jpg": "/AirbnbExperience-Scrimba-React/static/media/bike.8e7277c6660c88dd86b2.jpg",
+    "static/media/hero-img.png": "/AirbnbExperience-Scrimba-React/static/media/hero-img.072626b8e8ff69932f03.png",
+    "static/media/paint.jpg": "/AirbnbExperience-Scrimba-React/static/media/paint.0128a205631eec43c9ef.jpg",
+    "static/media/katie.png": "/AirbnbExperience-Scrimba-React/static/media/katie.d5f59803579208b4af86.png",
+    "index.html": "/AirbnbExperience-Scrimba-React/index.html",
+    "main.ea04e267.css.map": "/AirbnbExperience-Scrimba-React/static/css/main.ea04e267.css.map",
+    "main.c7e9a71a.js.map": "/AirbnbExperience-Scrimba-React/static/js/main.c7e9a71a.js.map"
   },
   "entrypoints": [
     "static/css/main.ea04e267.css",
-    "static/js/main.30a36890.js"
+    "static/js/main.c7e9a71a.js"
   ]
 }
